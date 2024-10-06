@@ -1,2 +1,2 @@
-You can find the function in a file names assessment.
+You can find the function in a file named assessment.
 Thank you :-)
